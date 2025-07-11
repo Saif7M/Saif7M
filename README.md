@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,java,selenium,mysql,html,css,javascript,vscode,eclipse,github" />
-    <img src="https://skillicons.dev/icons?i=jenkins,linux,aws,gcp,azure,git,terraform,kubernetes,docker,vim,grafana,prometheus" /><br>
+    <img src="https://skillicons.dev/icons?i=jenkins,linux,aws,gcp,kafka,git,terraform,kubernetes,docker,vim,grafana,prometheus" /><br>
 </div>
 
 <br/>
