@@ -48,7 +48,6 @@
   <h2>♨️ My Contributions ♨️</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Saif7M/Saif7M/output/github-contribution-grid-snake.svg" />
-  
   <br/>
 </div>
 
