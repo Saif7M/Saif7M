@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **CI/CD, Monitoring, GCP Cloud**
+ 🔭 I’m currently working on ** Kafka, CI/CD, GKE, Monitoring, GCP Cloud **
  
- 🌱 I’m currently learning **Docker and Kubernetes**
+ 🌱 I’m currently learning ** MlOps, Docker and Kubernetes **
 
-💬 Ask me about ** SRE, Core Java, MySql, Devops or anything [here](https://github.com/Saif7M/Saif7M/issues)**
+💬 Ask me about ** SRE, Core Java, MySql, Devops or anything [here](https://github.com/Saif7M/Saif7M/issues) **
 
-⚡ Fun fact **The first computer bug was an actual moth stuck in a computer in 1947! 🐛**
+⚡ Fun fact ** The first computer bug was an actual moth stuck in a computer in 1947! 🐛**
 
  </div>
  
